@@ -2,7 +2,6 @@ using API.Data;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using API.Entities;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authorization;
